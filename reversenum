@@ -1,7 +1,7 @@
 public class Main {
   public static void main(String[] args) {
 
-    int n, rev = 0;
+    int n, rev = 0;       // also a pallidrome number take input 525 o/p = 525 
     Scanner sc = new Scanner(System.in);
     System.out.println("enter the value of n");
     n = sc.nextInt();
